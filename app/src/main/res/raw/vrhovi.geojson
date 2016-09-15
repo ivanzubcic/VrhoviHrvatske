@@ -1,0 +1,1710 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Martinščak", "nv":346},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5796,
+          45.4073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Zir", "nv":850},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6144,
+          44.4301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Vojak", "nv":1396},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2020,
+          45.2845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Sisol", "nv":835},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2010,
+          45.1711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Knezgrad", "nv":612},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2494,
+          45.2833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Veliki Planik", "nv":1272},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1906,
+          45.3616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Županj", "nv":1138},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1674,
+          45.3879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Orljak", "nv":1106},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1266,
+          45.4192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Žbevnica", "nv":1014},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0138,
+          45.4586
+        ]
+      }
+    },
+    {
+        "type": "Feature",
+        "properties": {"naziv":"Ozeblin", "nv":1657},
+        "geometry": {
+         "type": "Point",
+         "coordinates": [
+           15.8761,
+           44.5786
+         ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {"naziv":"Oštri Medvjeđak", "nv":884},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            15.6538,
+            44.8876
+          ]
+        }
+    },
+   {
+     "type": "Feature",
+     "properties": {"naziv":"Poštak", "nv":1421},
+     "geometry": {
+       "type": "Point",
+       "coordinates": [
+         16.1105,
+         44.2556
+       ]
+     }
+   },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Kremen", "nv":1590},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8865,
+          44.4641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Sisol", "nv":835},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2010,
+          45.1711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Kameni svati", "nv":482},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8541,
+          45.8692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Medvedgrad", "nv":579},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9406,
+          45.8701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Sljeme", "nv":1033},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9474,
+          45.8993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Horvatovih 500 stuba", "nv":600},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9632,
+          45.9188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Lipa", "nv":709},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0672,
+          45.9297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Grohot", "nv":492},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1176,
+          45.9573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Cepeliš", "nv":415},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2708,
+          45.3958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Petrovac", "nv":512},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8083,
+          45.3114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Vinica", "nv":321},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5250,
+          45.4447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Vodenica", "nv":538},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4090,
+          45.5923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Babina gomila", "nv":735},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5336,
+          43.0763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Ilijin vrh", "nv":1234},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3520,
+          42.5738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Sv. Ilija", "nv":960},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1595,
+          42.9962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Crni vrh", "nv":865},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4273,
+          45.6019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Maksimov hrast", "nv":614},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5667,
+          45.2817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Čardak", "nv":421},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0923,
+          45.2585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Brezovo polje", "nv":984},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3323,
+          45.3857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Petrov vrh", "nv":614},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3127,
+          45.5853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Češljakovački vis", "nv":825},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7225,
+          45.4910
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Ivačka glava", "nv":913},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6358,
+          45.5148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Lapjak", "nv":667},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6524,
+          45.4841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Kapovac", "nv":790},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8467,
+          45.4832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Mali Maglaj", "nv":1455},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6607,
+          43.8791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Velika Duvjakuša", "nv":1708},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5690,
+          43.9376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Badanj", "nv":1281},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3230,
+          44.0989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Bat", "nv":1206},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3299,
+          43.9630
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Glavaš", "nv":1308},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8151,
+          43.7250
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Vrh Svilaje", "nv":1508},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4850,
+          43.7904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Čavnovka", "nv":1147},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1712,
+          43.9249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Dinara (Sinjal)", "nv":1831},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3829,
+          44.0623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Stankov vrh", "nv":309},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1712,
+          43.9249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Vis", "nv":444},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8251,
+          46.0818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Pliješ", "nv":977},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3831,
+          45.7687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Tuščak", "nv":585},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5626,
+          45.8236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Zečak", "nv":795},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5482,
+          45.7534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Sveta Gera", "nv":1178},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3181,
+          45.7598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Ječmište", "nv":976},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4218,
+          45.7806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Okić", "nv":499},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7068,
+          45.7488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Plešivica", "nv":779},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6681,
+          45.7372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Oštrc", "nv":752},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6494,
+          45.7614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Japetić", "nv":879},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6092,
+          45.7490
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Veliki Lovnik", "nv":728},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5644,
+          45.7981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Sveti Vid", "nv":348},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9949,
+          44.4765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Kamenjak", "nv":408},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7898,
+          44.7732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Vrh Sv. Mikula", "nv":557},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3705,
+          44.6616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Sis", "nv":639},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3546,
+          45.0670
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Obzova", "nv":569},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6874,
+          44.9941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Sozanj", "nv":231},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8600,
+          42.7732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Kom", "nv":508},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8593,
+          42.9368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Hum", "nv":587},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1153,
+          43.0356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Sveti Nikola", "nv":626},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5976,
+          43.1444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Vidova gora", "nv":780},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6203,
+          43.2793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Vela Straža", "nv":237},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3520,
+          43.3575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Orljak", "nv":270},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0487,
+          44.0007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Veliki Bokolj", "nv":274},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3055,
+          43.9825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Velji grad", "nv":514},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5592,
+          42.7444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Šćah", "nv":286},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1440,
+          44.0851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Crni vrh", "nv":739},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1675,
+          43.5934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Debelo brdo", "nv":1044},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5698,
+          43.5515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Kula (Imber)", "nv":863},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7309,
+          43.4309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Sv. Jure", "nv":1319},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6920,
+          43.4891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Veliki Kabal", "nv":1339},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6375,
+          43.5270
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Krtolin", "nv":503},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9959,
+          43.7389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Ljubljan", "nv":1262},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6107,
+          43.5422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Vrh Sv. Jure", "nv":676},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4777,
+          43.5595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Biranj", "nv":631},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3534,
+          43.5787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Drveničke stine (vrh Sokolić)", "nv":788},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2418,
+          43.1714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Kimet", "nv":1536},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1120,
+          43.2869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Vošac", "nv":1421},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0463,
+          43.3106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Rilić - Sv. Ilija", "nv":773},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3757,
+          43.0996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Rilić - Sutvid (Velika Kapela)", "nv":1158},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1943,
+          43.1915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Sv. Ilija", "nv":1642},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9971,
+          43.3713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Veliki Šibenik", "nv":1467},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0098,
+          43.3447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Sv. Jure", "nv":1762},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0539,
+          43.3420
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Sv. Rok", "nv":1062},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3331,
+          43.2164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Miletnjak (Šćirovac)", "nv":1619},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9756,
+          43.3809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Čevo", "nv":562},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2827,
+          46.2063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Japica", "nv":509},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7363,
+          46.0586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Sušec", "nv":846},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9086,
+          46.1893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Ravna gora - vrh (piramida)", "nv":680},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9840,
+          46.2716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Oštrcgrad", "nv":746},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0844,
+          46.1664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Ivanščica", "nv":1060},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1272,
+          46.1813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Veliki Lubenjak", "nv":590},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2843,
+          46.1806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Vranilac", "nv":643},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4547,
+          46.1312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Mohokos", "nv":344},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3635,
+          46.4539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Krajačev kuk", "nv":1659},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9956,
+          44.7510
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Gromovača", "nv":1676},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9844,
+          44.7729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Mali Rajinac", "nv":1699},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0132,
+          44.7945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Veliki (Zavižanski) Pivčevac", "nv":1676},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9924,
+          44.8050
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Balinovac", "nv":1602},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9665,
+          44.8073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Veliki Zavižan", "nv":1676},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9735,
+          44.8022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Korenski vrh (kod Kutereva)", "nv":1101},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1986,
+          44.8012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Veliki Kozjak", "nv":1629},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0355,
+          44.7330
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Jadićeva plan", "nv":1416},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0218,
+          44.9170
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Hajdučki kukovi", "nv":1650},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0167,
+          44.7674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Vratarski kuk", "nv":1676},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0005,
+          44.7657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Velinac", "nv":965},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0723,
+          44.5597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Metla", "nv":1288},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2134,
+          44.5390
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Ljubičko brdo", "nv":1320},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1902,
+          44.5371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Kiza", "nv":1274},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1598,
+          44.5483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Bačić kuk", "nv":1304},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0961,
+          44.5793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Budakovo brdo", "nv":1317},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0740,
+          44.5825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Laktin vrh", "nv":1504},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0927,
+          44.6210
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Šatorina", "nv":1622},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0485,
+          44.6476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Zečjak", "nv":1622},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9894,
+          44.7031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Anića kuk", "nv":712},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4825,
+          44.3069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Vlaški grad", "nv":1383},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5507,
+          44.3250
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Sveto brdo", "nv":1751},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5697,
+          44.3283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Vaganski vrh", "nv":1757},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5049,
+          44.3677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Bojinac", "nv":1110},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4134,
+          44.3489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Debeli kuk (kod Stapa)", "nv":1269},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3104,
+          44.4178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Visočica", "nv":1615},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3715,
+          44.4297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Veliki Stolac", "nv":1406},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2556,
+          44.4506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Crnopac", "nv":1404},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8369,
+          44.2518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Veliki Sadikovac", "nv":1286},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1864,
+          44.5050
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Zagradski vrh", "nv":1187},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7804,
+          45.2276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Kolovratske stijene", "nv":1090},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9412,
+          45.1261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Bijele stijene", "nv":1335},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9758,
+          45.2192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Samarske stijene", "nv":1302},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9422,
+          45.2312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Bjelolasica", "nv":1534},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9613,
+          45.2734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Javorova kosa", "nv":1015},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9518,
+          45.3867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Bijela kosa", "nv":1289},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0209,
+          45.3242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Klek", "nv":1181},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1455,
+          45.2603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Tuhobić", "nv":1109},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6420,
+          45.3342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Medviđak", "nv":1027},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6865,
+          45.2563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Veliki Kobiljak", "nv":1119},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7256,
+          45.2530
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Bitoraj", "nv":1386},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7904,
+          45.2926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Viševica", "nv":1428},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8009,
+          45.2541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Ogulin - Zavičajni muzej", "nv":323},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2245,
+          45.2672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Crni vrh", "nv":1335},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5272,
+          45.4446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Jelenc", "nv":1442},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5534,
+          45.4871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Snježnik", "nv":1505},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5841,
+          45.4406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Risnjak", "nv":1528},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6214,
+          45.4315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Rudnik", "nv":1052},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6093,
+          45.5645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Veliki Drgomalj", "nv":1154},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7904,
+          45.4381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Skradski vrh", "nv":1043},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9214,
+          45.4202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Špičasti vrh", "nv":702},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9281,
+          45.4787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Kamenjak", "nv":837},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5552,
+          45.3787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Obruč", "nv":1376},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4660,
+          45.4591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Fratar", "nv":1353},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4865,
+          45.4489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"naziv":"Okrugljak", "nv":886},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0300,
+          45.4603
+        ]
+      }
+    }
+  ]
+}
