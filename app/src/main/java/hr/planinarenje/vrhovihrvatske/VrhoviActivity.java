@@ -245,6 +245,9 @@ public class VrhoviActivity extends Activity implements OnMapReadyCallback,
         if(minDistance/1000<0.1){
             Toast.makeText(getApplicationContext(), "Čestitam! Osvojili ste vrh: " + (featureMinDistance != null ?
                     featureMinDistance.getProperty("naziv") : ""), Toast.LENGTH_LONG).show();
+            SharedPreferences.Editor editor = sharedPreferencesPeaks.edit();
+            editor.putBoolean(featureMinDistance.getProperty("naziv"), true);
+            editor.commit();
             setMapMarkerStyle();
         }
 
